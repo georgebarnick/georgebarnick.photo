@@ -19,7 +19,7 @@
 <meta name="theme-color" content="#001722">
 <link rel="icon" type="image/x-icon" href="../images/favicon.ico" />
 <link rel="icon" sizes="192x192" href="../images/favicon.png">
-<link rel="stylesheet" type="text/css" href="main.css">
+<link rel="stylesheet" type="text/css" href="../main.css">
 <title>George Barnick Photography</title>
 <style type="text/css">
 #avatar {
