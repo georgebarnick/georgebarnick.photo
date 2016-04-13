@@ -19,27 +19,9 @@
 <meta name="theme-color" content="#001722">
 <link rel="icon" type="image/x-icon" href="../images/favicon.ico" />
 <link rel="icon" sizes="192x192" href="../images/favicon.png">
+<link rel="stylesheet" type="text/css" href="main.css">
 <title>George Barnick Photography</title>
 <style type="text/css">
-* {
-        margin: 0;
-        padding: 0;
-}
-
-body {
-        background-color: #001722;
-}
-
-#logo {
-        background-image: url( ../images/logo.png );
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position: top center;
-        width: 100%;
-        height: 65px;
-        margin-top: 36px;
-}
-
 #avatar {
         width: 600px;
         max-width: 900px;
@@ -54,28 +36,6 @@ body {
         box-shadow: 0 0 1em #000;
 }
 
-.nav {
-        list-style-image: none;
-        font-family: "fira-sans", sans-serif;
-        text-align: center;
-        margin-top: 16px;
-        margin-left: 20%;
-        margin-right: 20%;
-        border-bottom: 3px solid #3F5058;
-        padding-bottom: 28px;
-}
-
-.nav a {
-        font-size: 18px;
-        text-decoration: none;
-        color: #fff;
-        margin-left: 12px;
-        margin-right: 12px;
-        transition: all .25s ease-in-out;
-}
-
-.nav a.selected,
-.nav a:hover,
 .clients a:hover {
         color: #FFCF0B;
 }
@@ -206,43 +166,11 @@ input[type="reset"]:hover {
         color: #ababab;
 }
 
-.footer {
-        text-align: center;
-        font-size: 12px;
-        font-family: "fira-sans", sans-serif;
-        color: #3F5058;
-        margin-top: 24px;
-        margin-left: 20%;
-        margin-right: 20%;
-        border-top: 1px solid #3F5058;
-        padding-top: 16px;
-}
-
-.sponsors ul {
-        list-style-type: none;
-}
-
-.sponsors ul li {
-        display: inline;
-        margin-left: 1em;
-        margin-right: 1em;
-}
-
-.sponsors ul li a {
-        text-decoration: none;
-}
-
 @media only screen and (max-device-width: 600px) {
-        .nav,
         .clients,
-        p,
-        .footer {
+        p {
                 margin-left: 5%;
                 margin-right: 5%;
-        }
-
-        .nav a {
-                line-height: 2.75em;
         }
 
         #avatar {
