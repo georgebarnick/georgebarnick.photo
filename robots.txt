@@ -1,0 +1,4 @@
+sitemap: https://www.georgebarnick.photo/sitemap.xml
+User-agent: *
+Disallow: /git*
+Disallow: /fontawesome*
