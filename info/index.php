@@ -232,7 +232,7 @@ $(document).ready(function() {
         <a href="http://glas-werks.com" target="_blank">Glas-Werks, LLC Detailing</a>
         <a href="http://midatlanticst.com" target="_blank">Mid-Atlantic Automotive Show & Trade</a>
         <a href="http://www.tarmacapparel.com" target="_blank">Tarmac Apparel</a>
-	<a href="//www.turo.com" taret=_blank">Turo</a>
+	<a href="//www.turo.com" target="_blank">Turo</a>
         <a href="http://www.virginiaexotics.com" target="_blank">Virginia Exotics</a>
     </div>
 </div>
