@@ -46,6 +46,7 @@
 .table .cell {
 	display: table-cell;
 	transition: opacity 0.2s;
+	padding-top: 8px;
 }
 
 #content-wrapper:hover .cell:not(:hover) {
@@ -54,13 +55,11 @@
 
 .table .cell.large {
 	width: 100%;
-	padding-top: 8px;
 }
 
 .table .cell.medium {
 	width: 50%;
 	box-sizing: border-box;
-	padding-top: 8px;
     padding-bottom: 4px;
 }
 
@@ -97,6 +96,14 @@
 	#content-wrapper:hover .cell:not(:hover) {
 		opacity: 1;
 	}
+	
+	/*
+	.table .cell {
+		width: 100% !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	*/
 }
 </style>
 <script src="https://use.typekit.net/ihw1ick.js"></script>
@@ -147,10 +154,13 @@ $(document).ready(function() {
     </div>
 </div>
 <div class="table">
-	<div class="row">
-		<div class="cell large">
-	    	<img src="images/svomustang.jpg" alt="Mustang SVO" />
- 	   </div>
+	<div class="row lazy-load">
+    	<div class="cell medium left">
+        	<img src="images/invisible.gif" data-src="images/svomustang.jpg" alt="SVO Mustang" />
+        </div>
+        <div class="cell medium right">
+        	<img src="images/ferrari.jpg" alt="Ferrari 360 Spider rolling shot" />
+        </div>
     </div>
 </div>
 <div class="table">

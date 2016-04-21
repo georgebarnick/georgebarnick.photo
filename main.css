@@ -69,6 +69,12 @@ body {
 }
 
 @media only screen and (max-device-width: 600px) {
+	#logo {
+		margin-left: 5%;
+		margin-right: 5%;
+		width: 90%;
+	}
+	
 	.nav,
 	.footer {
 		margin-left: 5%;
