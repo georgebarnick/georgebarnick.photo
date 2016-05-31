@@ -267,28 +267,6 @@ href="mailto:georgebarnick@gmail.com">georgebarnick@gmail.com</a>.<?php
     <input type="reset" value="Clear"><br />
 </form>
 <div class="footer">
-<div class="sponsors">
-Sponsors
-<ul>
-    <li>
-        <a href="http://blownmotorz.com" target="_blank">
-                <img src="../images/blownmotorz.png" height="100" alt="Blown Motorz, LLC" />
-        </a>
-    </li>
-        <li>
-        <a href="//www.facebook.com/Dirty-Works-Automotive-Detailing-LLC-1491878187807284" target="_blank">
-                <img src="../images/dirtyworks.png" height="100" alt="Dirty Works Automotive Detailing" />
-        </a>
-    </li>
-    <li>
-        <a href="//www.instagram.com/dmv_mustangs" target="_blank">
-                <img src="../images/dmvmustangs.png" height="100" alt="DMV Mustangs" />
-        </a>
-    </li>
-</ul>
-</div>
-</div>
-<div class="footer">
 Copyright © 2016 George Barnick Photography, LLC. All rights reserved.
 </div>
 <!-- Quantcast Tag -->
