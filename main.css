@@ -8,7 +8,7 @@ body {
 }
 
 #logo {
-        background-image: url( ../images/logo.png );
+        background-image: url( images/logo.png );
         background-size: contain;
         background-repeat: no-repeat;
         background-position: top center;
@@ -42,12 +42,17 @@ body {
 	color: #FFCF0B;
 }
 
-.footer {
+.footer,
+.footer a {
         text-align: center;
-        font-size: 12px;
+		text-decoration: none;
         font-family: "fira-sans", sans-serif;
         color: #3F5058;
-        margin-top: 24px;
+}
+
+.footer {
+        font-size: 12px;
+		margin-top: 24px;
         margin-left: 20%;
         margin-right: 20%;
         border-top: 1px solid #3F5058;
@@ -55,18 +60,14 @@ body {
 		padding-bottom: 8px;
 }
 
-.sponsors ul {
-        list-style-type: none;
+.footer a {
+		font-size: 24px;
+		padding: 4px;
+		transition: all .25s ease-in-out;
 }
 
-.sponsors ul li {
-        display: inline;
-        margin-left: 1em;
-        margin-right: 1em;
-}
-
-.sponsors ul li a {
-        text-decoration: none;
+.footer a:hover {
+	color: #FFCF0B;
 }
 
 @media only screen and (max-device-width: 600px) {
@@ -84,5 +85,9 @@ body {
 	
 	.nav a {
 		line-height: 2.75em;
+	}
+	
+	.footer a {
+		font-size: 36px;
 	}
 }
