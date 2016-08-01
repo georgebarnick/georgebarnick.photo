@@ -4,9 +4,9 @@
 <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="George Barnick Automotive Photography - Professional automotive photography based in Northern Virginia"/>
-<meta name="keywords" content="photography, cars, exotic cars, automotive photography, photographer"/>
-<meta property="og:title" content="George Barnick Automotive Photography" />
+<meta name="description" content="George Barnick Photography - Professional automotive photography based in Northern Virginia"/>
+<meta name="keywords" content="photography, cars, exotic cars, automotive photography, photographer, real estate"/>
+<meta property="og:title" content="George Barnick Photography" />
 <meta property="og:type" content="business.business" />
 <meta property="og:url" content="https://www.georgebarnick.photo/" />
 <meta property="og:image" content="https://www.georgebarnick.photo/images/lotus.jpg" />
@@ -216,7 +216,7 @@ $(document).ready(function() {
 <div class="nav">
 	<a href="../portfolio/">Home</a>
     <a href="../portfolio/automotive/">Automotive</a>
-    <a href="../portfolio/cgi/">CGI</a>
+    <!-- <a href="../portfolio/cgi/">CGI</a> -->
     <a href="../portfolio/realestate/">Real&nbsp;Estate</a>
     <a href="../resume/">Resume</a>
     <a class="selected">Information</a>
@@ -233,8 +233,9 @@ $(document).ready(function() {
         <a href="http://extremecustomcollision.com" target="_blank">Extreme Custom Collision</a>
         <a href="http://glas-werks.com" target="_blank">Glas-Werks, LLC Detailing</a>
         <a href="http://midatlanticst.com" target="_blank">Mid-Atlantic Automotive Show & Trade</a>
+        <a href="http://rohanawheels.com" target="_blank">Rohana Wheels</a>
         <a href="http://www.tarmacapparel.com" target="_blank">Tarmac Apparel</a>
-	<a href="//www.turo.com" target="_blank">Turo</a>
+		<a href="//www.turo.com" target="_blank">Turo</a>
         <a href="http://www.virginiaexotics.com" target="_blank">Virginia Exotics</a>
     </div>
 </div>
