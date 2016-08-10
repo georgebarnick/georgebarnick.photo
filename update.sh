@@ -1,7 +1,7 @@
 #!/bin/bash
 
-/usr/local/cpanel/3rdparty/bin/git pull
-/usr/local/cpanel/3rdparty/bin/git submodule init
-/usr/local/cpanel/3rdparty/bin/git submodule update
-chmod 755 info
-chmod 644 info/*
+git pull
+git submodule init
+git submodule update
+chmod 0755 info
+chmod 0644 info/*
