@@ -227,18 +227,23 @@ $(document).ready(function() {
     </div>
     <div class="clients-cell" style="width:100%;">
     	<a href="//www.abcdieselz.com" target="_blank">ABCDieselZ</a>
+	<a href="http://actiontint.com" target="_blank">Action Window Tinting</a>
         <a href="//www.americanmuscle.com" target="_blank">AmericanMuscle.com</a>
-        <a href="http://www.blownmotorz.com" target="_blank">Blown Motorz, LLC</a>
+        <a href="http://www.blownmotorz.com" target="_blank">Blown Motorz</a>
         <a href="http://www.capitalford.com" target="_blank">Capital Ford of Raleigh NC</a>
-        <a href="http://www.dominionraceway.com" target="_blank">Dominon Raceway</a>
+	<a href="http://capitalstclub.org" target="_blank">Capital ST Club</a>
+        <a href="http://www.dominionraceway.com" target="_blank">Dominon Raceway and Entertainment</a>
         <a href="http://www.evolution-motorsport.com" target="_blank">Evolution Motorsport Engineering</a>
         <a href="http://extremecustomcollision.com" target="_blank">Extreme Custom Collision</a>
-        <a href="http://glas-werks.com" target="_blank">Glas-Werks, LLC Detailing</a>
+        <a href="http://glas-werks.com" target="_blank">Glas-Werks Detailing</a>
         <a href="http://midatlanticst.com" target="_blank">Mid-Atlantic Automotive Show & Trade</a>
+	<a href="http://www.modmotormustangs.com" target="_blank">Mod Motor Mustangs</a>
         <a href="http://rohanawheels.com" target="_blank">Rohana Wheels</a>
         <a href="http://www.tarmacapparel.com" target="_blank">Tarmac Apparel</a>
-		<a href="//www.turo.com" target="_blank">Turo</a>
+	<a href="//www.turo.com" target="_blank">Turo</a>
         <a href="http://www.virginiaexotics.com" target="_blank">Virginia Exotics</a>
+	<a href="http://vrpspeed.com">Victory Road Performance</a>
+	<a href="http://www.whiteoakasphalt.com">White Oak Asphalt</a>
     </div>
 </div>
 <h1>About Me</h1>
